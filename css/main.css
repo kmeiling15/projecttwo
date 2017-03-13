@@ -300,25 +300,30 @@ h1 {
 h2 {
     color: #adadad;
     font-style: italic;
+    font-weight: 300;
 
 }
 
 h3 {
     color: #b89979;
+    font-weight: 300;
 
 }
 
 h4 { 
     color: #adadad;
+    font-weight: 300;
 
 }
 
 h5 {
     color: #b89979;
+    font-weight: 300;
 
 }
 
 li {
+    font-weight: 300;
     display: inline;
     padding: 10px;
 }
