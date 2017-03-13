@@ -309,6 +309,11 @@ h5 { color: #b89979;
 
 }
 
+li {
+    display: inline;
+    padding: 10px;
+}
+
 
 
 
