@@ -326,7 +326,9 @@ h5 {
     font-size: 22px;
 
 }
-
+ul{
+    list-style-type: none;
+}
 li {
     font-weight: 300;
     display: inline;
