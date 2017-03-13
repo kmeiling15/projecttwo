@@ -286,40 +286,36 @@ textarea {
 
 
 
+body { font-family: 'Lato', sans-serif;
 
+}
 
-h1 {font-family: 'Lato', sans-serif;
-    font-weight: light;
+h1 {
     
 }
 
 
-h2 {font-family: 'Lato', sans-serif;
-    font-weight: light-italic; 
+h2 {
     color: #adadad;
 
 }
 
-h3 {font-family: 'Lato', sans-serif;
-    font-weight: light;
+h3 {
     color: #b89979;
 
 }
 
-h4 {font-family: 'Lato', sans-serif; 
-    font-weight: light;
+h4 { 
     color: #adadad;
 
 }
 
-h5 {font-family: 'Lato', sans-serif;
-    font-weight: light;
+h5 {
     color: #b89979;
 
 }
 
-li {font-family: 'Lato', sans-serif;
-    font-weight: light;
+li {
     display: inline;
     padding: 10px;
 }
