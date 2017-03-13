@@ -294,6 +294,7 @@ body { font-family: 'Lato', sans-serif;
 
 h1 {
     font-weight: 300;
+    font-size: 16px;
 }
 
 
@@ -308,18 +309,21 @@ h2 {
 h3 {
     color: #b89979;
     font-weight: 300;
+    font-size: 48px;
 
 }
 
 h4 { 
     color: #adadad;
     font-weight: 300;
+    font-size: 22px;
 
 }
 
 h5 {
     color: #b89979;
     font-weight: 300;
+    font-size: 22px;
 
 }
 
@@ -327,6 +331,7 @@ li {
     font-weight: 300;
     display: inline;
     padding: 10px;
+    font-size: 16px;
 }
 
 
