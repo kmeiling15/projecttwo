@@ -291,8 +291,16 @@ body { font-family: 'Lato', sans-serif;
 
 
 }
-.nav_bar { background-image: url(../img/lightstripe.jpg);
+.wrapper {
+        background-image: url(../img/lighstripe.jpg);
+        background-position: center
+}
+.nav_bar { 
             background-size: cover;
+
+.couch { background-image: url(../img/relaxcouch.jpg);
+
+}
 
 }
 
