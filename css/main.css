@@ -359,9 +359,11 @@ div, body{
   font-family: exo, sans-serif;
   
 }
-.chair {
+img .chair {
+  display: block;
   height: auto;
   max-width: 100%;
+  margin: auto;
 }
 .wrapper {
   height: 100%; 
